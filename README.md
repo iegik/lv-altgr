@@ -5,3 +5,5 @@ Klaviatūras izkārtojums ar Alt+Ctrl (AltGr) mēmo taustiņu
 ![](caps.png)
 ![](shift.png)
 ![](altgr.png)
+
+[Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339)
